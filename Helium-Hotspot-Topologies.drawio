@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T08:26:09.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="gpMf0e7nItHPO1HW8az4" version="16.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-06T08:26:28.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="U4hR8XWHXZi4yFNIYjSt" version="16.6.5" type="github" pages="2">
   <diagram id="iKRTfIvsgAHTzPborcKI" name="Full">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
           <mxGeometry x="1080" y="895" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aC08C6gNYoCpae9THRba-64" value="Helium组件" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1090" y="405" width="200" height="140" as="geometry" />
+          <mxGeometry x="1080" y="405" width="200" height="115" as="geometry" />
         </mxCell>
         <mxCell id="aC08C6gNYoCpae9THRba-68" value="出口认证&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;东南亚&lt;br style=&quot;font-size: 15px&quot;&gt;大洋洲&lt;br&gt;非洲&lt;br&gt;北美" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="763" y="895" width="220" height="120" as="geometry" />
@@ -166,7 +166,7 @@
           <mxGeometry x="1074.5" y="1210" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="aC08C6gNYoCpae9THRba-72" value="Helium组件" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=15;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1084.5" y="720" width="200" height="140" as="geometry" />
+          <mxGeometry x="1079" y="720" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
